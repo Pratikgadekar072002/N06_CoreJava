@@ -10,7 +10,7 @@ public class UserInput {
 	System.out.println("enter a string:");
 	String a=s.nextLine();
 	System.out.println(" string is "+a);
-
+	
 	}
 
 }
