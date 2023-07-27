@@ -23,8 +23,5 @@ public class Library {
 	public String toString() {
 		return "Library [noofbooks=" + noofbooks + ", authorname=" + authorname + ", bookname=" + bookname + ", price="
 				+ price + "]";
-	}
-	
-	
-     
+	}     
 }
